@@ -1,0 +1,18 @@
+{
+  "name": "@vesparny/eslint-config",
+  "version": "1.0.0",
+  "description": "Eslint config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vesparny/eslint-config.git"
+  },
+  "author": [
+    "Alessandro Arnodo"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vesparny/eslint-config/issues"
+  },
+  "homepage": "https://github.com/vesparny/eslint-config"
+}
