@@ -1,6 +1,6 @@
 {
-  "name": "@vesparny/eslint-config",
-  "version": "1.1.0",
+  "name": "eslint-config-vesparny",
+  "version": "1.2.0",
   "description": "Eslint config",
   "main": "index.js",
   "repository": {

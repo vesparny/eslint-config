@@ -1,5 +1,5 @@
 module.exports = {
-  'extends': '@vesparny/eslint-config',
+  'extends': 'eslint-config-vesparny',
   'plugins': [
     'react'                          // https://github.com/yannickcr/eslint-plugin-react
   ],
